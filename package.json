@@ -16,5 +16,17 @@
   "bugs": {
     "url": "https://github.com/mkudlak/Portfolio/issues"
   },
-  "homepage": "https://github.com/mkudlak/Portfolio#readme"
+  "homepage": "https://github.com/mkudlak/Portfolio#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-concat": "^2.6.1",
+    "gulp-imagemin": "^5.0.3",
+    "gulp-newer": "^1.4.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "gulp-watch": "^5.0.1"
+  }
 }
